@@ -31,7 +31,7 @@ http://localhost:3000/signup
 #### Login User
 - method: POST
 ```
-http://localhost:3000/login
+http://localhost:8080/login
    ```
 - Schema for user registration:
 ```
